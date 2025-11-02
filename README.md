@@ -25,7 +25,7 @@ these will also be under the "releases" section along with a list here when they
 
 | Name | Archived-not-public-use | Public-Use | Current-project | Be-Revived-Later | Future-Project |
 | --- | --- | --- | --- | --- | --- |
-| [Password check (pass)](https://github.com/loganDag/loganDag2/tree/dev/pass) | :x: | :white_check_mark: | :x: | :x: | :x: |
+| [Password check (pass)](https://github.com/loganDag/password_checker) | :x: | :white_check_mark: | :x: | :x: | :x: |
 | [File System](https://github.com/loganDag/FileSystem/tree/main) | :x: | :x: | ✅ | :x: | :x: |
 | [ChristTube](https://github.com/loganDag/ChrisTube/tree/main) | :x: | :x: | ✅ | :x: | ✅ |
 
