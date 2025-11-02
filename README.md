@@ -2,7 +2,7 @@
 This repository is going to be a personally used/release repo for project I am working on, release to public, and any old projects that anyone can use if they feel. This have NO warranty, may contain security issues, and, if you want to use it, may require being worked on.
 
 ### How to obtain a specific project
-Each project will have a link to its own seperate repository and a  tag(s) associated with its current status. If you want to check it out, please look at the repository associated with that project and please respect the tag meanings mentioned below.
+Each project will have a link to its own seperate repository and a  tag(s) associated with its current status. If you want to check it out, please look at the repository associated with that project and please respect the tag's meaning mentioned below.
 
 Security is **AS IS, NOT GUARANTEED, AND HAS NO WARRANTY.**
 
