@@ -16,8 +16,7 @@ Any current project being developed will have security pages as well.
 
 - Projects that may be restarted later on will be assigned the *"Be-Revived-Later"* tag. These may be projects that were once abandoned and might be worked and re-worked later in the future. These projects will have a link to their repo in the status area below., especially if they will be turned into an *"Current-Project"*.
 
-- The *"Future-Project"* tag will be assigned to projects and things that I might work on later, most likely given their own repo, and will have a link to their repo in the status area below.
-these will also be under the "releases" section along with a list here when they are published.
+- The *"Future-Project"* tag will be assigned to projects and things that I might work on later, most likely given their own repo, and will have a link to their repo in the status area below. Status will be changed when finished or have a stable release for the public.
 
 **Please respect the meaning of the tags.**
 
