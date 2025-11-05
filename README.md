@@ -33,6 +33,6 @@ You can contact me in various ways:
 
 | Web     | Social          |
 | ------- | --------------- |
-| [Website](https://logandag.dev) | [Discord Server](https://discord.gg/ZdZ6VAEgtZ)  |
+| [Website](https://logandag.github.io/loganDag/) | [Discord Server](https://discord.gg/ZdZ6VAEgtZ)  |
 | [Email](mailto:logandagdev@outlook.com)   | [Discord profile](https://discord.com/users/1408371149305413683) |
 
