@@ -26,7 +26,7 @@ Any current project being developed will have security pages as well.
 | --- | --- | --- | --- | --- | --- |
 | [Password check (pass)](https://github.com/loganDag/password_checker) | :x: | :white_check_mark: | :x: | :x: | :x: |
 | [File System](https://github.com/loganDag/FileSystem/tree/main) | :x: | :x: | ✅ | :x: | :x: |
-| [ChristTube](https://github.com/loganDag/ChrisTube/tree/main) | :x: | :x: | ✅ | :x: | ✅ |
+| [ChristTube](https://github.com/loganDag/ChrisTube/tree/main) | :x: | :x: | ✅ | :x: | :x: |
 
 ### Contact and socials
 You can contact me in various ways:
