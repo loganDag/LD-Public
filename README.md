@@ -32,7 +32,7 @@ Any current project being developed will have security pages as well.
 | [File System](https://github.com/loganDag/FileSystem/tree/main) | :x: | :x: | :x: | ✅ | :x: | ✅ | :x: | None |
 | [ChristTube](https://github.com/loganDag/ChrisTube/tree/main) | :x: | :x: | ✅ | :x: | :x: | :x: | :x: | None |
 | [(L)ogan (D)ag (D)ev (A)ndroid app 1](https://github.com/loganDag/LDDA1) | :x: | :x: | ✅ | :x: | :x: | :x: | :x: | None |
-| [Post it! Social media Site](https://github.com/loganDag/Post-It-Social) | :x: | :x: | :x: | ✅ | ✅ | ✅ | ❔ | May require complete replacement from its current state, might scrap |
+| [Post it! Social media Site](https://github.com/loganDag/Post-It-Social) | :x: | :x: | :x: | ✅ | ✅ | ✅ | ❔ | <details><summary>Possible replacement</summary>A complete replacement may be needed and to scrap this project, depends on workload</details> |
 
 ### Contact and socials
 You can contact me in various ways:
