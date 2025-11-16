@@ -18,15 +18,21 @@ Any current project being developed will have security pages as well.
 
 - The *"Future-Project"* tag will be assigned to projects and things that I might work on later, most likely given their own repo, and will have a link to their repo in the status area below. Status will be changed when finished or have a stable release for the public.
 
+- The *"Needs-Rework"* tag will be assigned to projects that have bugs or need fixes that require a major overall.
+
+- The *"Complete-Replacement-Needed"* tag will be given to projects that will be completely replaced by another project all together or a complete rework of the project.
+
 **Please respect the meaning of the tags.**
 
 ### Releases and status
 
-| Name | Archived-not-public-use | Public-Use | Current-project | Be-Revived-Later | Future-Project |
-| --- | --- | --- | --- | --- | --- |
-| [Password check (pass)](https://github.com/loganDag/password_checker) | :x: | :white_check_mark: | :x: | :x: | :x: |
-| [File System](https://github.com/loganDag/FileSystem/tree/main) | :x: | :x: | ✅ | :x: | :x: |
-| [ChristTube](https://github.com/loganDag/ChrisTube/tree/main) | :x: | :x: | ✅ | :x: | :x: |
+| Name | Archived-not-public-use | Public-Use | Current-project | Be-Revived-Later | Future-Project | Needs-Rework | Complete-Replacement-Needed | Notes on Project |
+| --- | --- | --- | --- | --- | --- | ---- | ----- | ---- |
+| [Password check (pass)](https://github.com/loganDag/password_checker) | :x: | :white_check_mark: | :x: | :x: | :x: | :x: | :x: | None |
+| [File System](https://github.com/loganDag/FileSystem/tree/main) | :x: | :x: | :x: | ✅ | :x: | ✅ | :x: | None |
+| [ChristTube](https://github.com/loganDag/ChrisTube/tree/main) | :x: | :x: | ✅ | :x: | :x: | :x: | :x: | None |
+| [(L)ogan (D)ag (D)ev (A)ndroid app 1](https://github.com/loganDag/LDDA1) | :x: | :x: | ✅ | :x: | :x: | :x: | :x: | None |
+| [Post it! Social media Site](https://github.com/loganDag/Post-It-Social) | :x: | :x: | :x: | ✅ | ✅ | ✅ | ❔ | May require complete replacement from its current state, might scrap |
 
 ### Contact and socials
 You can contact me in various ways:
