@@ -33,7 +33,7 @@ Any current project being developed will have security pages as well.
 | [ChristTube](https://github.com/loganDag/ChrisTube/tree/main) | :x: | :x: | ✅ | :x: | :x: | :x: | :x: | None |
 | [(L)ogan (D)ag (D)ev (A)ndroid app 1](https://github.com/loganDag/LDDA1) | :x: | :x: | ✅ | :x: | :x: | :x: | :x: | None |
 | [Post it! Social media Site](https://github.com/loganDag/Post-It-Social) | :x: | ✅ | :x: | :x: | :x: | ✅ | ✅ | <details><summary>Being replaced</summary>Had a God-given thought, going to completely rework this based off of what is here now, new project is listed below.</details> |
-| [New Social Site](https://github.com/loganDag/new-social-site) | :x: | :x: | ✅ | :x: | :x: | :x: | :x: | None |
+| [Christian Social Site](https://github.com/loganDag/new-social-site) | :x: | :x: | ✅ | :x: | :x: | :x: | :x: | None |
 
 ### Contact and socials
 You can contact me in various ways:
