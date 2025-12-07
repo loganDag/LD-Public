@@ -1,5 +1,5 @@
 # Welcome to the Repository!
-This repository is going to be a personally used/release repo for project I am working on, release to public, and any old projects that anyone can use if they feel. This have NO warranty, may contain security issues, and, if you want to use it, may require being worked on. There is an organization that will be used for other projects that are more community driven than just my own personal projects, however, at this moment, it will only have a github page and not a dedicated website on my server. It also has a Telegram channel and a Discord server. You can view the organization: [Here.](https://github.com/LoganDagDev)
+This repository is going to be a personally used/release repo for project I am working on, release to public, and any old projects that anyone can use if they feel. This have NO warranty, may contain security issues, and, if you want to use it, may require being worked on. There is an organization that will be used for other projects that are more community driven than just my own personal projects, however, at this moment, it will only have a github page and not a dedicated website on my server. It also has a Telegram channel and a Discord server. You can view the organization: [Here.](https://github.com/LoganDagDev) or its GitHub page website [Here.](https://logandagdev.github.io/.github/)
 
 ### Purpose
 
